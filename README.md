@@ -4,6 +4,8 @@
 - Built and designed an iOS app that allows users to log in, post tweets, view the home feed and friends’ profile. 
 - Design functions to call APIs from the Twitter server to gather the data
 
+- Part II
+
 Time spent: 6 hours spent in total
 
 ## User Stories
@@ -19,6 +21,8 @@ The following functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/hlK23tj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+- Part I
 
 Time spent: 8 hours spent in total
 
